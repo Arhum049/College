@@ -60,7 +60,8 @@ The project consists of the following components:
 - **Vercel Deployment**: Verify `vercel.json` settings and ensure Flask is compatible with Vercel’s serverless environment.
 
 ## Contact
-Have questions or suggestions? Reach out to me on [GitHub](https://github.com/yourusername) or email me at your-email@example.com.
+Have questions or suggestions? Reach out to  email me at educationarhum@gmail.com.
+LinkedIn: https://www.linkedin.com/in/arhumkhan049/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
